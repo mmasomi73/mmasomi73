@@ -227,13 +227,13 @@ Finding out why something that worked yesterday doesn't work today.
 
 <br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mmasomi73show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mmasomi73&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmasomi73layout=compact&hide_border=true&langs_count=8&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmasomi73&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mmasomi73hide_border=true&theme=transparent" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mmasomi73&hide_border=true&theme=transparent" />
 
 </div>
 
@@ -245,7 +245,7 @@ Finding out why something that worked yesterday doesn't work today.
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mmasomi73bg_color=00000000&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mmasomi73&bg_color=00000000&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -360,7 +360,7 @@ If you find something I could have done better,
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=mmasomi73style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=mmasomi73&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 <br><br>
 
